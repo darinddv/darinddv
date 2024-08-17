@@ -6,3 +6,7 @@
 - [Texas DFPS](https://github.com/darinddv/Texas-DFPS)
 
 - [Illinois DCFS](https://github.com/darinddv/Illinois-DCFS)
+
+
+### Chemistry PhD
+- [Hi-C Loop Prediction](https://github.com/darinddv/Hi-C-Loop-Prediction)
